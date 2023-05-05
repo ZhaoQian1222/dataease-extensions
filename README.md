@@ -1,6 +1,7 @@
-# DateEase 官方插件
+# 当前分支包含 DataEase 的数据源扩展插件
+- InfluxDB
 
-此仓库用于放置 DataEase 官方插件，插件分为两种类型：数据源插件和视图插件。
+此仓库是由 DateEase 官方插件仓库 fork 的仓库，从dev分支迁出了新的分支，开发了 InfluxDB 数据源插件。
 
 当前以插件方式支持的数据源包括：
 
@@ -9,8 +10,9 @@
  - 阿里云 MaxCompute
  - MongoDB
  - Presto
+ - InfluxDB
  
-当前已插件方式支持的视图包括：
+当前以插件方式支持的视图包括：
 
  - 3dpie
  - bubblemap
