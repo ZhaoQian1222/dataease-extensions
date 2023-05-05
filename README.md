@@ -1,7 +1,7 @@
 # 当前分支包含 DataEase 的数据源扩展插件
 - InfluxDB
 
-此仓库是由 DateEase 官方插件仓库 fork 的仓库，从dev分支迁出了新的分支，开发了 InfluxDB 数据源插件。
+此仓库是由 DateEase 官方插件仓库 fork 的仓库，从 dev 分支迁出了新的分支，开发了 InfluxDB 数据源插件。
 
 当前以插件方式支持的数据源包括：
 
